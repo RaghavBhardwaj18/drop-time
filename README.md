@@ -6,11 +6,13 @@ Most delivery estimates rely on basic distance calculations. DropTime digs deepe
 
 👉 **Experience DropTime Live on Streamlit** (https://drop-time.streamlit.app/)
 
+![DropTime UI Preview](images/droptime-ui.png)
+
 ------------------------------
 ## 🎨 The Vibe Check (UI/UX)
 Let's be real: filling out long data forms is exhausting. I designed DropTime to feel less like a clinical spreadsheet and more like an intuitive, fast-paced app.
 
-![DropTime UI Preview](images/droptime-ui.png)
+![DropTime UI Preview](images/droptime-ui-2.png)
 
 ------------------------------
 ## 🧠 Data & Model Architecture
