@@ -6,7 +6,7 @@ Most delivery estimates rely on basic distance calculations. DropTime digs deepe
 
 👉 **Experience DropTime Live on Streamlit** (https://drop-time.streamlit.app/)
 
-![DropTime UI Preview](images/droptime-ui.png)
+![DropTime UI Preview](images/droptime-ui-home.png)
 
 ------------------------------
 ## 🎨 The Vibe Check (UI/UX)
