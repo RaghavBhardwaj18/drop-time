@@ -50,8 +50,8 @@ Make sure you have Python 3.10+ installed.
    
    
 ------------------------------
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-* Frontend: Streamlit + Custom CSS Animations
-* Machine Learning: Python, Scikit-Learn, Pandas, NumPy
-* Deployment: Streamlit Community Cloud
+* **Frontend**: Streamlit + Custom CSS Animations
+* **Machine Learning**: Python, Scikit-Learn, Pandas, NumPy
+* **Deployment**: Streamlit Community Cloud
