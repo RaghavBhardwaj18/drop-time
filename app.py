@@ -129,7 +129,7 @@ div[data-testid="stVerticalBlockBorderWrapper"]:has(div[data-key="tab_content_wr
 # ─── Page config ─────────────────────────────────────────────────
 st.set_page_config(
     page_title="DropTime · ETA Predictor",
-    page_icon="🍔",
+    page_icon="🛵",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
